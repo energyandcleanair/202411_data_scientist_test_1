@@ -5,7 +5,7 @@ This is a first technical assignment for the data engineer / data scientist posi
 ## Part 1 - Data analysis and visualisation (30-min)
 We at CREA have developed an online system that collects air pollution data from a dozen sources globally. In this assignment, we would like you to extract and present some insights using this dataset.
 
-Namely, we would like you to present in a single graph (subplots/facets authorised) the share of population covered by stations within radii of 5, 10, 50km and beyond for US, UK, Turkey, Thailand, Philippines, India.
+Namely, we would like you to present in a single graph (subplots/facets authorised) the share of population covered by PM10 monitoring stations within radii of 5, 10, 50km for US, UK, Turkey, Thailand, Philippines, and India.
 
 Data sources:
 - Stations: https://api.energyandcleanair.org/stations?country=GB,US,TR,PH,IN,TH
@@ -17,12 +17,11 @@ Please don't spend more than 30 minutes on this task.
 
 ## Comments
 
-We are interested in the way you solve the problems, how you structure your code and how you present results. There is no particular trap. If you have any doubt or question, feel free to contact [me](hubert@energyandcleanair.org) directly.
+We are interested in the way you solve the problems, how you structure your code and how you present results. There             is no particular trap. If you have any doubt or question, feel free to contact [me](hubert@energyandcleanair.org) directly.
 
 ## Submission
 
 Steps:
-
-- fork this repository;
-- push your code and the chart to your fork;
-- invite rosagierens, TickleThePanda, hubert-thieriot as a collaborator on your repository once you are done.
+- push your code/chart to a **private** repository
+- invite `hubert-thieriot` as a collaborator on your repository once you are done
+- indicate the url of your repository in your application form.
