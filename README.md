@@ -25,6 +25,4 @@ Steps:
 
 - fork this repository;
 - push your code and the chart to your fork;
-- invite [me](hubert@energyandcleanair.org) as a collaborator on your repository once you are done.
-
-If required, you can push your results to another platform and share the link(s) with me.
+- invite rosagierens, TickleThePanda, hubert-thieriot as a collaborator on your repository once you are done.
